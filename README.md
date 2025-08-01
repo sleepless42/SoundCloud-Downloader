@@ -6,3 +6,4 @@ Simple SoundCloud Downloader for Windows written on Python.
 - Option to enable downloading songs with metadata.
 # Dependencies:
 - [ffmpeg](http://ffmpeg.org/) (it's included in Setup file, choose full installation).
+# Screenshots:
