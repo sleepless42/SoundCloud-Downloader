@@ -1,4 +1,4 @@
-# SoundCloud-Downloader
+# SoundCloud Downloader
 Simple SoundCloud Downloader for Windows written on Python.
 # Key features:
 - Supports MP3 (320 kbps) & FLAC formats;
